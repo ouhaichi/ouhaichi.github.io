@@ -3,7 +3,7 @@ title: "Smart Assistants For Multimaodl Learning Analytics Systems In Spoken Lan
 collection: publications
 permalink: /publication/smart-assistants-mmla
 excerpt: 'Smart assistants that could be used with MMLA for language acquisition.'
-date: 2024-07-01
+date: 2024-07-04
 venue: '16th International Conference on Education and New Learning Technologies'
 ---
 

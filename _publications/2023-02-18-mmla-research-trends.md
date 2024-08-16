@@ -3,7 +3,7 @@ title: "Research trends in multimodal learning analytics: A systematic mapping s
 collection: publications
 permalink: /publication/mmla-research-trends
 excerpt: 'Research trends in Multimodal learning Analytics'
-date: 2024-02-18
+date: 2023-02-18
 venue: 'Computers and Education: Artificial Intelligence'
 ---
 
