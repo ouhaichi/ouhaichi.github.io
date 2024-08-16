@@ -7,11 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
-Here's your CV converted into Markdown format:
-
-```markdown
 # Hamza Ouhaichi
 
 **Address:** Jägersrovägen 8B, Malmö, Sweden  
