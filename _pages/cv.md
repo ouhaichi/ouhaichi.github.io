@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-# Hamza Ouhaichi
+**Hamza Ouhaichi**
 
 **Address:** Jägersrovägen 8B, Malmö, Sweden  
 **Phone:** +46700831495  

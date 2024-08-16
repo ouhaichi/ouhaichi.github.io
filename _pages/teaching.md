@@ -30,19 +30,22 @@ My teaching experience spans diverse subjects, including Operating Systems, Prog
 
 | Role                   | Course                                      | Period   |
 |------------------------|---------------------------------------------|--------|
-| Grading                | Programmering med C#                        | HT2019 |
-| Grading                | Programmering med C#                        | VT2020 |
-| Lab supervision        | Systemprogramvara                           | HT2020 |
-| Lectures + Labs        | Systemprogramvara                           | HT2021 |
-| Lab preparation + supervision | Icke-relationella databaser        | VT2021 |
-| Supervision            | Bachelor thesis                             | VT2021 |
-| Lectures + Labs        | Systemprogramvara                           | HT2022 |
-| Project supervision    | Systemutveckling och projek                 | VT2023 |
+| Project supervision    | [Systemutveckling och projekt](https://mau.se/sok-utbildning/kurser/DA336A/TS717-20251)                 | VT2024 |
+| Workshops              | [Objektorienterad programutveckling](https://mau.se/sok-utbildning/kurser/da343a/)          | VT2024 |
+| Lab supervision        | [IoT Prototyping and User Experience](https://mau.se/en/study-education/courses/DA641E/TS122-20242)         | HT2023 |
+| Lectures + Labs        | [Systemprogramvara](https://mau.se/sok-utbildning/kurser/DA488A/TS719-20252)                           | HT2023 |
+| Workshops              | [Objektorienterad programutveckling](https://mau.se/sok-utbildning/kurser/da343a/)          | VT2023 |
 | Supervision            | Bachelor thesis                             | VT2023 |
-| Workshops              | Objektorienterad programutveckling          | VT2023 |
-| Lectures + Labs        | Systemprogramvara                           | HT2023 |
-| Lab supervision        | IoT Prototyping and User Experience         | HT2023 |
-| Workshops              | Objektorienterad programutveckling          | VT2024 |
+| Project supervision    | [Systemutveckling och projekt](https://mau.se/sok-utbildning/kurser/DA336A/TS717-20251)                 | VT2023 |
+| Lectures + Labs        | [Systemprogramvara](https://mau.se/sok-utbildning/kurser/DA488A/TS719-20252)                           | HT2022 |
+| Lab preparation + supervision | [Icke-relationella databaser](https://mau.se/sok-utbildning/kurser/da352a)        | VT2021 |
+| Supervision            | Bachelor thesis                             | VT2021 |
+| Lectures + Labs        | [Systemprogramvara](https://mau.se/sok-utbildning/kurser/DA488A/TS719-20252)                           | HT2021 |
+| Lab supervision        | [Systemprogramvara](https://mau.se/sok-utbildning/kurser/DA488A/TS719-20252)                           | HT2020 |
+| Grading                | [Programmering med C#](https://mau.se/en/study-education/course/da204e)                        | VT2020 |
+| Grading                | [Programmering med C#](https://mau.se/en/study-education/course/da204e)                        | HT2019 |
+
+
 
 {% include base_path %}
 
