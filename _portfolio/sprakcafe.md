@@ -1,6 +1,6 @@
 ---
 title: "Laguage Café with AI"
-excerpt: "Generative AI can be a good assisstant in practicing languages. In this project, we explore how AI can be used as conversational aid to acquire a language while facilitating the collection of multimodal data for learning analytics <br/><img src='/images/sprakcafe.png'>"
+excerpt: "Generative AI can be a good assisstant in practicing languages. In this project, we explore how AI can be used as conversational aid to acquire a language while facilitating the collection of multimodal data for learning analytics "
 collection: portfolio
 ---
 
