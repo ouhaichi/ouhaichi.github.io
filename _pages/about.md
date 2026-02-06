@@ -9,10 +9,6 @@ redirect_from:
 
 Here, I speak my mind sometimes.
 
-Dissertation defence
-======
-On Septemebre 24th I will defend my thesis in computer science: A Framework for Designing and Analysing Multimodal Learning Analytics Systems.
-
-. [Event link](https://mau.se/en/calendar/dissertation-defence---hamza-ouhaichi/) 
+<img src="/images/allahuma.jpg" alt="My Image" width="500" height="300">
 
 
