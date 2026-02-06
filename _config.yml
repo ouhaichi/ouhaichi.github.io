@@ -25,10 +25,10 @@ author:
   name             : "Hamza"
   pronouns         : # example: "she/her"  
   bio              : "A learner"
-  location         : "Malmö, Sweden"
-  employer         : "Malmö University"
-  uri              : # URL
-  email            : "hamza.ouhaichi@mau.se" 
+  location         : "Luleå, Sweden"
+  employer         : "Luleå University of Technology"
+  uri              : "https://www.ltu.se/en/staff/h/hamza-ouhaichi"
+  email            : "hamza.ouhaichi@ltu.se" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : Hamza OUHAICHI
+  linkedin         : # none
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
